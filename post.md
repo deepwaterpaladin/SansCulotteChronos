@@ -1,5 +1,5 @@
 # Building a Date Converter for the French Revolutionary Calendar
-The French Revolutionary Calendar, introduced during the French Revolution in 1793, aimed to break from traditional religious and royalist conventions. This calendar featured 12 months of 30 days each, with five or six complementary days at the end of the year, known as Sans-culottides. This project recreates the conversion between the Gregorian calendar and the Revolutionary Calendar as a Python console application, using the rich library for a polished user interface.
+The French Revolutionary Calendar, introduced during the French Revolution in 1793, aimed to break from traditional religious and royalist conventions. This calendar featured 12 months of 30 days each, with five or six complementary days at the end of the year, known as Sans-culottides. This project recreates the conversion between the Gregorian calendar and the Revolutionary Calendar as a Python console application, using the rich library for a polished user interface. The code repository can be found [here](https://github.com/deepwaterpaladin/SansCulotteChronos)
 
 ## Project Overview
 The main goal was to design a user-friendly application capable of:
